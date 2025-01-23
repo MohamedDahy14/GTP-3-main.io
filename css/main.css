@@ -208,11 +208,13 @@ h4 {
   .companies-slider
     .track
 */
-#home {
+/* #home {
   width: 100%;
   overflow: hidden;
+} */
+#home{
+  overflow: hidden;
 } 
-
 #home .blur {
   position: absolute;
   width: 50%;
